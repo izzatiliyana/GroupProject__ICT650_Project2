@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="signout">Sign Out</string>
+    <string name="id">id</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hyperlink">
+    <a href="https://github.com/izzatiliyana/GroupProject__ICT650_Project2"> Link to our github </a>
+    </string>
+</resources>
